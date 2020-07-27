@@ -22,7 +22,7 @@ $prev:
 The previous block object if available
 
 $next:
-The next block object if availabel
+The next block object if available
 
 -->
 <p class="info"><?= $content ?></p>
